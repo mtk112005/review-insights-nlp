@@ -1,0 +1,315 @@
+{
+  "lda": {
+    "n_topics": 12,
+    "diversity": 0.6416666666666667,
+    "npmi": 0.1525873625419907,
+    "topics": [
+      [
+        "product",
+        "just",
+        "amazon",
+        "work",
+        "return",
+        "bought",
+        "got",
+        "time",
+        "working",
+        "did"
+      ],
+      [
+        "strings",
+        "string",
+        "tuner",
+        "set",
+        "tune",
+        "just",
+        "capo",
+        "tuning",
+        "guitar",
+        "time"
+      ],
+      [
+        "pick",
+        "picks",
+        "work",
+        "like",
+        "small",
+        "doesn",
+        "don",
+        "does",
+        "fit",
+        "size"
+      ],
+      [
+        "work",
+        "unit",
+        "software",
+        "just",
+        "support",
+        "product",
+        "windows",
+        "didn",
+        "install",
+        "drivers"
+      ],
+      [
+        "pedal",
+        "sound",
+        "amp",
+        "like",
+        "tone",
+        "just",
+        "good",
+        "pedals",
+        "sounds",
+        "guitar"
+      ],
+      [
+        "stand",
+        "guitar",
+        "fit",
+        "use",
+        "just",
+        "stands",
+        "don",
+        "way",
+        "screws",
+        "screw"
+      ],
+      [
+        "case",
+        "bag",
+        "mic",
+        "just",
+        "like",
+        "cheap",
+        "fit",
+        "inside",
+        "plastic",
+        "good"
+      ],
+      [
+        "power",
+        "use",
+        "work",
+        "unit",
+        "device",
+        "audio",
+        "recording",
+        "mic",
+        "keyboard",
+        "usb"
+      ],
+      [
+        "sound",
+        "like",
+        "good",
+        "better",
+        "just",
+        "don",
+        "strings",
+        "sounds",
+        "playing",
+        "really"
+      ],
+      [
+        "guitar",
+        "like",
+        "strap",
+        "just",
+        "good",
+        "play",
+        "quality",
+        "neck",
+        "cheap",
+        "strings"
+      ],
+      [
+        "money",
+        "cheap",
+        "buy",
+        "use",
+        "broke",
+        "waste",
+        "piece",
+        "just",
+        "don",
+        "light"
+      ],
+      [
+        "cable",
+        "noise",
+        "amp",
+        "cables",
+        "use",
+        "volume",
+        "sound",
+        "hum",
+        "quality",
+        "guitar"
+      ]
+    ]
+  },
+  "bertopic": {
+    "n_topics": 14,
+    "diversity": 0.7357142857142858,
+    "npmi": 0.13108893557034126,
+    "outlier_share": 0.26775541207747816,
+    "topics": [
+      {
+        "topic": 0,
+        "name": "strings, guitar, string, tuner",
+        "reviews": 2279,
+        "share_of_negative": 0.17311052031902774,
+        "mean_rating": 1.5133830627468188,
+        "examples": [
+          "Please pay attention better than I did to the reviews! This a very poor quality product. Will not stay in tune! If by chance you do order buy some better strings. The lesson booK is ok but that's about it. Do you self a favor and spend a little more. You will be glad you did!",
+          "Great concept with great instructions and CDs. The ukulele looks nice but the chords are frustratingly out of tune even with the strings tuned."
+        ]
+      },
+      {
+        "topic": 1,
+        "name": "pedal, amp, pedals, sound",
+        "reviews": 1742,
+        "share_of_negative": 0.1323205469046715,
+        "mean_rating": 1.5149253731343284,
+        "examples": [
+          "I had to turn the volume way way up when I use this to the point of loss of fidelity.",
+          "The headphones buzzed like loose paper was inside when used with my bass amp at a moderate volume."
+        ]
+      },
+      {
+        "topic": 2,
+        "name": "strap, stand, case, guitar",
+        "reviews": 1409,
+        "share_of_negative": 0.10702620584884162,
+        "mean_rating": 1.5699077359829667,
+        "examples": [
+          "It is very difficult to set straps up. Additionally, the release of the system varies. Some of the clips were very easy to release and some of the clips were pretty much impossible to separate. I am not impressed with the set up and the quality standards.",
+          "They are very big in size, on the picture they seem a lot smaller. I didn't wanted to bother with sending them back, so I've used just strap button with rubber ring. I can't imagine that I would use this lock as intended - it's too bulky and ugly for my taste."
+        ]
+      },
+      {
+        "topic": 3,
+        "name": "work, cheap, broke, money",
+        "reviews": 1253,
+        "share_of_negative": 0.0951766046334979,
+        "mean_rating": 1.4166001596169193,
+        "examples": [
+          "do not waste your money it's not near what it's made out to be a waste of time money and any effort put into ordering it and im disapointed in amazon for allowing it to be sold on there web site there able to check reviews to see if a item is worthy of being sold on your web site",
+          "very light use, here and there - now crackles BADLY and into the trash it goes - NOT recommended!!"
+        ]
+      },
+      {
+        "topic": 4,
+        "name": "mic, microphone, stand, recording",
+        "reviews": 762,
+        "share_of_negative": 0.05788074439802507,
+        "mean_rating": 1.505249343832021,
+        "examples": [
+          "Got it to use it on a microphone mounted on a camera it only has noise I do not recommend it",
+          "Does not work good Plugged it into a xlr mic and got nothing but really bad feedback noise. had to cut the new cord and use a guitar jack i already had that works fine. not worth returning for 7 bucks but i did pay 10 for overnight shipping. throw it in the trash and forget about it. Blehhhhh"
+        ]
+      },
+      {
+        "topic": 5,
+        "name": "violin, sound, drum, play",
+        "reviews": 666,
+        "share_of_negative": 0.050588682111659705,
+        "mean_rating": 1.5075075075075075,
+        "examples": [
+          "honestly i would rather use toys (skullcandy) than these... they are comfortable though.. I was expecting a nice loud yet crisp sound",
+          "Shattered the first time I tried to attach it to a snare drum rim. On stage, in a big hurry, disappointed."
+        ]
+      },
+      {
+        "topic": 6,
+        "name": "cable, cables, use, connectors",
+        "reviews": 508,
+        "share_of_negative": 0.03858716293201671,
+        "mean_rating": 1.4507874015748032,
+        "examples": [
+          "Horrible, stiff cables that are more or less locked in the position they came in. Other Hosa cables have more flex to them, which is what I was expecting here. Seriously, stiff cables are the worst.",
+          "Mega Cheap imported cables from China. The connectors are flimsy nickle finish - will oxidize in time."
+        ]
+      },
+      {
+        "topic": 7,
+        "name": "picks, pick, dunlop, grip",
+        "reviews": 233,
+        "share_of_negative": 0.01769844284086593,
+        "mean_rating": 1.5751072961373391,
+        "examples": [
+          "Very sturdy picks but also very hard to hold on to as the surface of these picks have no grip at all.",
+          "The 1.0 mm Dunlop Ultex feel MUCH thinner than 1.0. Very flimsy and small. No grip. Stay with your old Dunlops, these Ultex Dunlops are terrible. Dreadful."
+        ]
+      },
+      {
+        "topic": 8,
+        "name": "midi, keyboard, keys, piano",
+        "reviews": 205,
+        "share_of_negative": 0.015571591340676035,
+        "mean_rating": 1.4634146341463414,
+        "examples": [
+          "RETURNED THIS DUE TO FACT THE ELECTRONICS FOR THE KEYBOARD THIS CAME WITH WAS OLD SCHOOL , HAVE TO NAVIGATE TOO MUCH TO CHOOSE SELETION OF TONE HARMONY AND RYTHM",
+          "Doesn't clear a Casio PX-560 keyboard. Needs to be an inch or so taller if you bought it to mount a small monitor."
+        ]
+      },
+      {
+        "topic": 9,
+        "name": "light, lights, bright, led",
+        "reviews": 177,
+        "share_of_negative": 0.013444739840486138,
+        "mean_rating": 1.4406779661016949,
+        "examples": [
+          "The light works fine on this, but I really am growing to hate the arm that will only support its own weight at a very few angles. I'm using it on the back of a Furman unit and it really doesn't get the job done in that position. Might work better if it were on top of a unit.",
+          "I used this light for 3 shows and it no longer spins. I have not taken it apart to find out why. It was allways sticky and i had to spin it by hand to get it going. Its cheap but u would spend the money elswhere. 2 stars because it worked good for 2 shows."
+        ]
+      },
+      {
+        "topic": 10,
+        "name": "small, finger, fingers, size",
+        "reviews": 158,
+        "share_of_negative": 0.012001519179642994,
+        "mean_rating": 1.5949367088607596,
+        "examples": [
+          "I had to return it because it wouldn't go completely over my finger. I couldn't even get it to sit on my first knuckle. Will have to order a custom size. It felt like stoneware too, which gave me the heebie jeebies.",
+          "Fit my fat fingers quite nicely, though it is a bit heavier than expected (it's brass, duh). The sound it produces is very good for the studio, but for every day play I'll stick with the small & light one for my pinkie."
+        ]
+      },
+      {
+        "topic": 11,
+        "name": "humidity, guitar, cloth, case",
+        "reviews": 106,
+        "share_of_negative": 0.008051652107861755,
+        "mean_rating": 1.4528301886792452,
+        "examples": [
+          "I own a few and have a hard time remembering to \"refill\" the sponge. I'm better off just humidifing the room",
+          "I don't like the way it spreads the strings and pops up when you open the case. And, it dries out way too quickly. I have resumed using the \"stone\" type of humidifier. My luthier, who recommended trying this type of humidifier, has also gone back to the old style."
+        ]
+      },
+      {
+        "topic": 12,
+        "name": "pots, knobs, pot, shaft",
+        "reviews": 82,
+        "share_of_negative": 0.0062286365362704136,
+        "mean_rating": 1.4146341463414633,
+        "examples": [
+          "You only get the pickups, and not the pots. This put me in a bind, as I was building a guitar for somebody's Christmas gift and I had to scramble to find parts locally. They sound great, and I might even like them better than my lace hot golds.",
+          "i bought the item and received it but i did not like the fact that some of the knobs were very loose as if they had used it for a while and returned it,it was scratched with a few small dents and i just was not pleased with it."
+        ]
+      },
+      {
+        "topic": 13,
+        "name": "bone, plastic, pins, ebony",
+        "reviews": 60,
+        "share_of_negative": 0.004557538928978352,
+        "mean_rating": 1.45,
+        "examples": [
+          "I mis-placed a 20 year old slide recently, and replaced it with the same model. I note that both were brass, not chrome, despite what Amazon says. It's not as heavy, the edges are not as well-finished, and I swear it's just a touch tighter on my finger ...",
+          "Looked like the chrome was cheesey and they ended up breaking but they worked while they were used in a guitar with the proper pinhole next to the screw position"
+        ]
+      }
+    ]
+  }
+}

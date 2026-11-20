@@ -1,0 +1,191 @@
+{
+  "reviews_analysed": 14000,
+  "aspect_mentions": 27184,
+  "summary": [
+    {
+      "aspect": "durability",
+      "mentions": 837,
+      "negative_rate": 0.5496,
+      "positive_rate": 0.178,
+      "coverage": 0.0598,
+      "share_of_1_2_star_reviews": 0.135
+    },
+    {
+      "aspect": "support_returns",
+      "mentions": 778,
+      "negative_rate": 0.4049,
+      "positive_rate": 0.3522,
+      "coverage": 0.0556,
+      "share_of_1_2_star_reviews": 0.119
+    },
+    {
+      "aspect": "shipping_packaging",
+      "mentions": 1370,
+      "negative_rate": 0.2343,
+      "positive_rate": 0.535,
+      "coverage": 0.0979,
+      "share_of_1_2_star_reviews": 0.076
+    },
+    {
+      "aspect": "price_value",
+      "mentions": 5109,
+      "negative_rate": 0.1542,
+      "positive_rate": 0.542,
+      "coverage": 0.3649,
+      "share_of_1_2_star_reviews": 0.159
+    },
+    {
+      "aspect": "fit_size",
+      "mentions": 3221,
+      "negative_rate": 0.145,
+      "positive_rate": 0.4967,
+      "coverage": 0.2301,
+      "share_of_1_2_star_reviews": 0.099
+    },
+    {
+      "aspect": "sound",
+      "mentions": 7578,
+      "negative_rate": 0.1298,
+      "positive_rate": 0.5492,
+      "coverage": 0.5413,
+      "share_of_1_2_star_reviews": 0.18
+    },
+    {
+      "aspect": "ease_of_use",
+      "mentions": 3856,
+      "negative_rate": 0.1221,
+      "positive_rate": 0.5617,
+      "coverage": 0.2754,
+      "share_of_1_2_star_reviews": 0.089
+    },
+    {
+      "aspect": "build_quality",
+      "mentions": 4435,
+      "negative_rate": 0.1082,
+      "positive_rate": 0.621,
+      "coverage": 0.3168,
+      "share_of_1_2_star_reviews": 0.148
+    }
+  ],
+  "negative_rate_by_year": [
+    {
+      "year": 2012,
+      "build_quality": 0.1158,
+      "durability": 0.5701,
+      "ease_of_use": 0.1176,
+      "fit_size": 0.1764,
+      "price_value": 0.1679,
+      "shipping_packaging": 0.2507,
+      "sound": 0.1348,
+      "support_returns": 0.4679
+    },
+    {
+      "year": 2013,
+      "build_quality": 0.1093,
+      "durability": 0.5,
+      "ease_of_use": 0.1083,
+      "fit_size": 0.1304,
+      "price_value": 0.1588,
+      "shipping_packaging": 0.2387,
+      "sound": 0.1108,
+      "support_returns": 0.3828
+    },
+    {
+      "year": 2014,
+      "build_quality": 0.0888,
+      "durability": 0.466,
+      "ease_of_use": 0.1163,
+      "fit_size": 0.1488,
+      "price_value": 0.1499,
+      "shipping_packaging": 0.2088,
+      "sound": 0.127,
+      "support_returns": 0.4762
+    },
+    {
+      "year": 2015,
+      "build_quality": 0.0883,
+      "durability": 0.6038,
+      "ease_of_use": 0.1012,
+      "fit_size": 0.1432,
+      "price_value": 0.1573,
+      "shipping_packaging": 0.2011,
+      "sound": 0.1287,
+      "support_returns": 0.3721
+    },
+    {
+      "year": 2016,
+      "build_quality": 0.1191,
+      "durability": 0.5699,
+      "ease_of_use": 0.1386,
+      "fit_size": 0.104,
+      "price_value": 0.1413,
+      "shipping_packaging": 0.2534,
+      "sound": 0.1374,
+      "support_returns": 0.3694
+    },
+    {
+      "year": 2017,
+      "build_quality": 0.1107,
+      "durability": 0.5149,
+      "ease_of_use": 0.158,
+      "fit_size": 0.1508,
+      "price_value": 0.1544,
+      "shipping_packaging": 0.2534,
+      "sound": 0.1375,
+      "support_returns": 0.3462
+    },
+    {
+      "year": 2018,
+      "build_quality": 0.1255,
+      "durability": 0.6122,
+      "ease_of_use": 0.1295,
+      "fit_size": 0.1496,
+      "price_value": 0.1382,
+      "shipping_packaging": 0.2215,
+      "sound": 0.1418,
+      "support_returns": 0.3864
+    }
+  ],
+  "most_negative_examples": {
+    "build_quality": [
+      "Flimsy, it didn't properly hold the guitar, was unstable on a hard floor and simply fell over on carpet.",
+      "Terrible quality.",
+      "Cheaply made.....took forever to be delivered"
+    ],
+    "durability": [
+      "Within 48 hours of playing it stopped working, no output!",
+      "Stopped working properly just after the return window had passed basically junk!",
+      "The knob that locks the stand in when moved to the desired position broke immediately, and the microphone clip was useless and would not maintain a height that would keep the microphone pointed in the right direction."
+    ],
+    "ease_of_use": [
+      "Every other time I tried to add Vst folders - the MPC crashed - even after hours of FAQ and videos and reading install notes and so on, hours of changes all lost and hopeless.",
+      "Complete garbage sound cuts off at full volume played a show the sound kept cutting off bad amp also tuner does not work properly can't tune a string at all ..to many gimmicks do not buy I'll buy an ampeg portaflex better tone and reliable",
+      "Latest firmware at the time of writing is flawed and should not be installed."
+    ],
+    "fit_size": [
+      "bracket screw holes incorrect size, tripod, one leg completely broken off, smudges on the inside of the lens.",
+      "Did not fit my wireless microphone too well at all, and ripped apart quickly.",
+      "Did NOT fit my G50 Line 6 Transmitter."
+    ],
+    "price_value": [
+      "Poorly soldered and wired with cheap component parts Needed complete stripping and rewiring.",
+      "Just last Sunday a cheap XLR cable that connects my Mackie Monitor failed in the middle of a gig!",
+      "Total waste of money."
+    ],
+    "shipping_packaging": [
+      "did not work out of package.",
+      "Product was broken when it arrived.",
+      "GOT ONE AND IT DID NOT WORK RIGHT, DAMAGED IN SHIPMENT AND RETURNED ITEM."
+    ],
+    "sound": [
+      "The pedals tone sounded over compressed and muddy on everything I tried playing using a Fender P into a flat response power amp into a 4x10 Hartke cab..Many useless patches that I would never use.",
+      "Complete garbage sound cuts off at full volume played a show the sound kept cutting off bad amp also tuner does not work properly can't tune a string at all ..to many gimmicks do not buy I'll buy an ampeg portaflex better tone and reliable",
+      "Unacceptable noise."
+    ],
+    "support_returns": [
+      "Stopped working properly just after the return window had passed basically junk!",
+      "GOT ONE AND IT DID NOT WORK RIGHT, DAMAGED IN SHIPMENT AND RETURNED ITEM.",
+      "Too bad, four days after the email had been sent, I only got the email of telling me the case# of the message I sent without any further response to my refund."
+    ]
+  }
+}

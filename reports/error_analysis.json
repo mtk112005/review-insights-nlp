@@ -1,0 +1,121 @@
+{
+  "eval_reviews": 6000,
+  "positive_predicted_negative": 179,
+  "negative_predicted_positive": 13,
+  "coverage_accuracy": [
+    {
+      "threshold": 0.4,
+      "coverage": 0.9957,
+      "accuracy": 0.7949
+    },
+    {
+      "threshold": 0.45,
+      "coverage": 0.9835,
+      "accuracy": 0.8005
+    },
+    {
+      "threshold": 0.5,
+      "coverage": 0.9413,
+      "accuracy": 0.8183
+    },
+    {
+      "threshold": 0.55,
+      "coverage": 0.8883,
+      "accuracy": 0.8386
+    },
+    {
+      "threshold": 0.6,
+      "coverage": 0.8338,
+      "accuracy": 0.8599
+    },
+    {
+      "threshold": 0.65,
+      "coverage": 0.774,
+      "accuracy": 0.885
+    },
+    {
+      "threshold": 0.7,
+      "coverage": 0.7088,
+      "accuracy": 0.9194
+    },
+    {
+      "threshold": 0.75,
+      "coverage": 0.6462,
+      "accuracy": 0.9479
+    },
+    {
+      "threshold": 0.8,
+      "coverage": 0.575,
+      "accuracy": 0.9768
+    },
+    {
+      "threshold": 0.85,
+      "coverage": 0.4977,
+      "accuracy": 0.9889
+    },
+    {
+      "threshold": 0.9,
+      "coverage": 0.3697,
+      "accuracy": 0.9955
+    },
+    {
+      "threshold": 0.95,
+      "coverage": 0.0058,
+      "accuracy": 1.0
+    }
+  ],
+  "examples_5star_text_negative": [
+    {
+      "rating": 5.0,
+      "p_negative": 0.8904784321784973,
+      "review": "waste of money, fake reviews"
+    },
+    {
+      "rating": 4.0,
+      "p_negative": 0.8888766169548035,
+      "review": "Ordered two one worked the others polarity switched did not work."
+    },
+    {
+      "rating": 5.0,
+      "p_negative": 0.8862725496292114,
+      "review": "Absolutely stunned at how well these worked. Had a problem at the club I work at with low end sound leaking out of the building and started getting noise complaints. Bought 2 of these - 1 for each dual stack of JRX118S subs - and it completely eliminated the issue. Tightened up the bass a ton and go"
+    },
+    {
+      "rating": 4.0,
+      "p_negative": 0.8746471405029297,
+      "review": "Stands brokes easily."
+    },
+    {
+      "rating": 5.0,
+      "p_negative": 0.8728737831115723,
+      "review": "We run a complicated audio mixing and video projection setup at our church. For the last decade, we have had a major low-frequency buzz/hum, entering the Soundsystem anytime we played audio from any of the computers. It didn't matter whether The computer was a tower or a laptop, running off of batte"
+    }
+  ],
+  "examples_1star_text_positive": [
+    {
+      "rating": 1.0,
+      "p_positive": 0.9136591553688049,
+      "review": "Nice Wall hanger."
+    },
+    {
+      "rating": 1.0,
+      "p_positive": 0.8940594792366028,
+      "review": "Great guitars. The difference between a site that inspects the guitars vs one that doesn't.... I would like some water... Some sweet .... Water. It's always better."
+    },
+    {
+      "rating": 1.0,
+      "p_positive": 0.8188768625259399,
+      "review": "Sounds great if you're tone deaf."
+    },
+    {
+      "rating": 1.0,
+      "p_positive": 0.6451442241668701,
+      "review": "super small and the remote on has a manual feature"
+    },
+    {
+      "rating": 2.0,
+      "p_positive": 0.590293288230896,
+      "review": "Takes my uke pretty far out of tune. Just do yourself a favor and use a regular capo."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Data and trained models are large and fully reproducible (python run_pipeline.py)
+data/
+models/
+mlflow.db
+mlruns/
+mlartifacts/
+reports/*.parquet
